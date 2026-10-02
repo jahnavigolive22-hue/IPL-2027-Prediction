@@ -1,0 +1,11 @@
+prediction_position,team,historical_wins,wins_2026,historical_titles,final_prediction_score,model_probability,key_factors
+1,Royal Challengers Bengaluru,143,11.0,2.0,78.12,38.87,"2026 wins, 2026 win percentage, Team strength"
+2,Gujarat Titans,47,10.0,1.0,73.41,26.24,"Consistency, Batting, 2026 wins"
+3,Chennai Super Kings,148,6.0,5.0,62.7,10.75,"Batting, Title history, Historical wins"
+4,Sunrisers Hyderabad,102,9.0,1.0,60.07,8.64,"Consistency, 2026 win percentage, 2026 wins"
+5,Rajasthan Royals,123,9.0,1.0,54.15,5.27,"Consistency, Historical wins, 2026 wins"
+6,Kolkata Knight Riders,140,5.0,3.0,49.52,3.58,"Historical wins, Consistency, Title history"
+7,Punjab Kings,126,7.0,0.0,45.63,2.59,"Historical wins, Team strength, 2026 win percentage"
+8,Mumbai Indians,155,4.0,5.0,44.2,2.3,"Historical wins, Title history, Batting"
+9,Delhi Capitals,125,7.0,0.0,38.61,1.44,"Historical wins, 2026 win percentage, Bowling"
+10,Lucknow Super Giants,34,4.0,0.0,19.56,0.3,"Consistency, Bowling, Batting"

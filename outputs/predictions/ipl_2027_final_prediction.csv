@@ -1,0 +1,11 @@
+prediction_position,team,historical_wins,wins_2026,historical_matches,matches_2026,historical_losses,losses_2026,historical_titles,runner_up_count,final_prediction_score,model_probability,historical_component,historical_wins_component,recent_3_year_component,win_performance_component,latest_component,team_strength_component,batting_component,bowling_component,consistency_component,title_bonus,key_factors
+1,Royal Challengers Bengaluru,143,11.0,286,16.0,137,5.0,2.0,3.0,78.12,38.87,33.92,90.08,84.05,96.53,100.0,100.0,38.18,50.0,62.52,2.5,"2026 wins, 2026 win percentage, Team strength"
+2,Gujarat Titans,47,10.0,77,17.0,30,7.0,1.0,2.0,73.41,26.24,100.0,10.74,61.24,55.31,75.29,81.13,86.94,50.0,89.91,1.5,"Consistency, Batting, 2026 wins"
+3,Chennai Super Kings,148,6.0,266,14.0,116,8.0,5.0,5.0,62.7,10.75,66.99,94.21,24.94,54.34,35.56,28.93,100.0,50.0,63.08,5.0,"Batting, Title history, Historical wins"
+4,Sunrisers Hyderabad,102,9.0,211,15.0,104,6.0,1.0,2.0,60.07,8.64,23.59,56.2,58.88,68.82,78.22,70.28,40.33,50.0,93.49,1.5,"Consistency, 2026 win percentage, 2026 wins"
+5,Rajasthan Royals,123,9.0,251,16.0,122,7.0,1.0,1.0,54.15,5.27,28.17,73.55,44.99,71.16,68.89,56.67,14.44,50.0,89.81,1.5,"Consistency, Historical wins, 2026 wins"
+6,Kolkata Knight Riders,140,5.0,278,14.0,131,7.0,3.0,1.0,49.52,3.58,37.82,87.6,42.35,41.34,32.59,35.83,34.57,50.0,66.39,3.5,"Historical wins, Consistency, Title history"
+7,Punjab Kings,126,7.0,278,14.0,145,6.0,0.0,1.0,45.63,2.59,3.57,76.03,51.43,58.66,62.91,53.91,35.5,50.0,37.04,0.0,"Historical wins, Team strength, 2026 win percentage"
+8,Mumbai Indians,155,4.0,291,14.0,132,10.0,5.0,0.0,44.2,2.3,53.38,100.0,21.64,35.0,0.0,0.0,76.97,50.0,0.0,5.0,"Historical wins, Title history, Batting"
+9,Delhi Capitals,125,7.0,281,14.0,147,7.0,0.0,1.0,38.61,1.44,0.0,75.21,48.8,58.37,53.33,43.3,0.0,50.0,38.82,0.0,"Historical wins, 2026 win percentage, Bowling"
+10,Lucknow Super Giants,34,4.0,72,14.0,36,9.0,0.0,0.0,19.56,0.3,17.34,0.0,21.88,0.0,5.47,1.12,29.65,50.0,100.0,0.0,"Consistency, Bowling, Batting"

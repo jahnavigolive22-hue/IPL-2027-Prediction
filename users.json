@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "password": "325e93d440a31afed41200bdd6091b08608198a53a1f1f7c369319e993c5068e",
+    "role": "admin"
+  },
+  "jahnavi": {
+    "password": "b51ab1115f1850ed037eba142e8644f947ecee918730ba9755a7b962bc6f6052",
+    "role": "user"
+  }
+}
